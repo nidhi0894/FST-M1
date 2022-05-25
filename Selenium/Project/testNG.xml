@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="ExampleSuite" >
+    <test name="SuiteTests" >
+        <classes>
+            <class name="jobBoard.Activities.Activity1"/>
+            <class name="jobBoard.Activities.Activity2"/>
+            <class name="jobBoard.Activities.Activity3"/>
+            <class name="jobBoard.Activities.Activity4"/>
+            <class name="jobBoard.Activities.Activity5"/>
+            <class name="jobBoard.Activities.Activity6"/>
+            <class name="jobBoard.Activities.Activity7"/>
+            <class name="jobBoard.Activities.Activity8"/>
+            <class name="jobBoard.Activities.Activity9"/>
+        </classes>
+    </test>
+</suite>
